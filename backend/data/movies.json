@@ -1,0 +1,51 @@
+[
+    {
+        "name": "Grease",
+        "director": "Randal Kleiser",
+        "synopsis": "Dans les années 50, Sandy et Danny vivent une romance estivale, mais leurs retrouvailles au lycée sont marquées par leurs différences sociales. Entre chansons et danses, ils tentent de surmonter les obstacles de l’amour.",
+        "releaseYear": "1978",
+        "imagePath": "grease.png"
+    },
+    {
+        "name": "8 Mile",
+        "director": "Curtis Hanson",
+        "synopsis": "Dans les quartiers défavorisés de Detroit, Jimmy, un rappeur talentueux mais en difficulté, lutte pour se faire un nom. Ses batailles de freestyle reflètent ses combats personnels et son désir de changer de vie.",
+        "releaseYear": "2002",
+        "imagePath": "eight-mile.png"
+    },
+    {
+        "name": "Parasite",
+        "director": "Bong Joon-ho",
+        "synopsis": "Une famille pauvre s’infiltre dans la vie d’une famille riche, créant un enchaînement de manipulations et de tensions. Ce thriller social explore les inégalités et les secrets qui rongent la société.",
+        "releaseYear": "2019",
+        "imagePath": "parasite.png"
+    },
+    {
+        "name": "Terminator",
+        "director": "James Cameron",
+        "synopsis": "Un robot venu du futur est envoyé pour éliminer Sarah Connor, dont le fils à naître sera un leader de la résistance. Un combat épique entre l’humanité et la technologie s’engage.",
+        "releaseYear": "1984",
+        "imagePath": "terminator.png"
+    },
+    {
+        "name": "La Haine",
+        "director": "Mathieu Kassovitz",
+        "synopsis": "Après une nuit d’émeutes, trois jeunes banlieusards confrontent l’injustice, la violence et leur avenir incertain. Leur amitié fragile est mise à l’épreuve dans une société en crise.",
+        "releaseYear": "1995",
+        "imagePath": "la-haine.png"
+    },
+    {
+        "name": "Le Bon, la Brute et le Truand",
+        "director": "Sergio Leone",
+        "synopsis": "Trois hommes aux motivations différentes se lancent dans une quête périlleuse pour trouver un trésor caché. Entre alliances temporaires et trahisons, chacun tente de prendre l’avantage.",
+        "releaseYear": "1966",
+        "imagePath": "bon-brute-truand.png"
+    },
+    {
+        "name": "Drive",
+        "director": "Nicolas Winding Refn",
+        "synopsis": "Un cascadeur taciturne devient chauffeur pour des braquages, mais une mission tourne mal. Pris dans une spirale de violence, il doit protéger ceux qu’il aime.",
+        "releaseYear": "2011",
+        "imagePath": "drive.png"
+    }
+]
